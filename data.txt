@@ -1,0 +1,9 @@
+punto: 2 comentario: dios
+punto: 4 comentario: genial
+punto: 5 comentario: dfios
+punto: 2 comentario: A DOS
+punto: 5 comentario: DIOS
+punto: 4 comentario: dios
+punto: 2 comentario: todo
+punto: 4 comentario: bien
+punto: 5 comentario: katy la mejor
